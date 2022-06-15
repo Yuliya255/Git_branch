@@ -1,0 +1,13 @@
+Build: 1.0								
+Environment: Ubuntu 20.04.3 LTS							
+Test date: 12.02.22. - 14.02.22
+Tester: Ostapchuk							
+
+Registration check:							
+
+1. Fill in the required fields with the correct data, click the "register" button ----->Passed
+2. Leave the required fields blank click the "register" button ----->Passed
+3. Registration of a new user (special characters) ----->Passed												
+4. The user with the data  exists in the system ------>	Passed												
+5. Registration of a new user (Ukrainian letters) ----->Passed										
+6. Registration of a new user  (English letters)  ------>In progress																						
