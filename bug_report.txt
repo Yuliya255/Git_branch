@@ -1,0 +1,13 @@
+Defect_ID: 2.
+Summary: The number of units in the basket is incorrectly displayed when adding goods to it.
+STR: 1.Go to the site.
+     2.Choose a category and product.
+     3.Click on the "add to cart" button.
+     4.Press the "shopping cart" button.
+ Project: Test 1.
+ Severety: major.
+ Priority: medium.
+ Status: verified
+ Author: Yuliya Ostapchuk.
+ Enviroments: OS Ubuntu 22.04 LTS,browser Google Chrome Version 102.0.5005.61 (Official Build) (64-bit).
+
